@@ -1,1 +1,3 @@
 # Predictive-Analystics
+## The unemployment rate is the number of people unemployed divided by the number of people in the civilian labor force. The unemployment rate is reported by the relevant government department in most countries. The unemployment rate can be used as an important indicator by the central bank of the country to determine the health of the economy when setting monetary policy. Further, investors use unemployment statistics to plan future operating activities, see https://www.thebalance.com/unemployment-rate-3305744. 
+## The task is to develop a predictive model, trained with UnemploymentRate_InSample.csv, to forecast the monthly unemployment rate from January 2018 to December 2019. Note this is a 24-step-ahead forecast task. 
